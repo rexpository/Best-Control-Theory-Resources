@@ -1,2 +1,2 @@
 # useful-robotics-resources
-This is a series of the best pdfs for use with robots and can be applicable to vex or frc robotics autonomous routines. 
+This is a series of the best pdfs for use with robotics programming. Applicable to both vex and frc autonomous routines. 
